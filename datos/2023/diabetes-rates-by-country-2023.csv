@@ -1,0 +1,215 @@
+"country","percDiabetes","percDiabetes2011"
+"Pakistan",0.31,7.9
+"Kuwait",0.25,20.7
+"French Polynesia",0.25,8.6
+"Mauritius",0.23,14.8
+"New Caledonia",0.23,8.6
+"Northern Mariana Islands",0.23,
+"Marshall Islands",0.23,21.8
+"Nauru",0.23,20.4
+"Kiribati",0.22,25.3
+"Egypt",0.21,16.6
+"Qatar",0.2,19.8
+"Solomon Islands",0.2,15.3
+"American Samoa",0.2,
+"Tuvalu",0.2,19.2
+"Sudan",0.19,8.6
+"Saudi Arabia",0.19,19.6
+"Malaysia",0.19,12.1
+"Guam",0.19,8.6
+"Fiji",0.18,10.9
+"Mexico",0.17,15.6
+"Papua New Guinea",0.17,7.6
+"Palau",0.17,11.1
+"United Arab Emirates",0.16,18.8
+"Vanuatu",0.16,16.1
+"Micronesia",0.16,15.7
+"Saint Kitts and Nevis",0.16,8.5
+"Turkey",0.15,7.9
+"Syria",0.15,9.9
+"Jordan",0.15,12.1
+"Belize",0.15,17
+"Tonga",0.15,12.7
+"Bangladesh",0.14,10.5
+"Oman",0.14,10.5
+"Barbados",0.14,12.4
+"Guatemala",0.13,9.3
+"Puerto Rico",0.13,13
+"Trinidad and Tobago",0.13,12.7
+"Suriname",0.13,8.9
+"Grenada",0.13,8.6
+"Cayman Islands",0.13,12
+"Bermuda",0.13,12
+"Tanzania",0.12,2.8
+"Zambia",0.12,4.8
+"Singapore",0.12,9.5
+"Comoros",0.12,8.4
+"Guyana",0.12,16.7
+"Curacao",0.12,
+"Saint Lucia",0.12,8.4
+"United States Virgin Islands",0.12,12.1
+"Antigua and Barbuda",0.12,12.5
+"Dominica",0.12,8.9
+"China",0.11,8.8
+"United States",0.11,9.4
+"Indonesia",0.11,5.1
+"South Africa",0.11,7
+"Iraq",0.11,9.1
+"Afghanistan",0.11,7.6
+"Sri Lanka",0.11,7.5
+"Chile",0.11,9.5
+"Dominican Republic",0.11,8.1
+"Jamaica",0.11,15.7
+"Bahrain",0.11,19.5
+"Brunei",0.11,9.4
+"India",0.1,9
+"Thailand",0.1,7.5
+"Spain",0.1,6.3
+"Venezuela",0.1,10.2
+"Taiwan",0.1,
+"Tunisia",0.1,9.5
+"Albania",0.1,2.8
+"Bhutan",0.1,5.7
+"Andorra",0.1,5.4
+"Brazil",0.09,10.1
+"Iran",0.09,11.1
+"Morocco",0.09,6.8
+"Nepal",0.09,3.6
+"North Korea",0.09,8.4
+"Haiti",0.09,6.6
+"Portugal",0.09,9.6
+"Israel",0.09,7.4
+"Serbia",0.09,7.7
+"Nicaragua",0.09,11
+"Libya",0.09,13.8
+"Palestine",0.09,
+"Costa Rica",0.09,9.6
+"Uruguay",0.09,5.7
+"Bosnia and Herzegovina",0.09,7.5
+"Timor-Leste",0.09,7.5
+"Cyprus",0.09,9.3
+"Montenegro",0.09,7.7
+"Maldives",0.09,9.2
+"Bahamas",0.09,12.1
+"Samoa",0.09,7.7
+"Seychelles",0.09,12.1
+"British Virgin Islands",0.09,8.6
+"Colombia",0.08,9.8
+"Canada",0.08,8.4
+"Cuba",0.08,9.4
+"Hong Kong",0.08,7.6
+"Paraguay",0.08,6.5
+"Lebanon",0.08,19.6
+"Panama",0.08,9.4
+"Macau",0.08,7.2
+"Malta",0.08,6.6
+"Saint Vincent and the Grenadines",0.08,8.8
+"Japan",0.07,7.7
+"Philippines",0.07,9.7
+"Germany",0.07,5.3
+"Myanmar",0.07,7.1
+"South Korea",0.07,7.5
+"Algeria",0.07,7
+"Poland",0.07,9
+"Uzbekistan",0.07,6.4
+"Malawi",0.07,5.6
+"Romania",0.07,7.7
+"Kazakhstan",0.07,7.7
+"Somalia",0.07,4.3
+"Cambodia",0.07,2.9
+"Rwanda",0.07,3.1
+"Burundi",0.07,2.7
+"South Sudan",0.07,
+"Czech Republic",0.07,5.3
+"Hungary",0.07,6
+"Tajikistan",0.07,6.3
+"Kyrgyzstan",0.07,6.3
+"Bulgaria",0.07,6.7
+"Turkmenistan",0.07,2.7
+"Eritrea",0.07,3.6
+"Mongolia",0.07,7.1
+"Namibia",0.07,7.8
+"Estonia",0.07,7
+"Djibouti",0.07,6.3
+"San Marino",0.07,5.5
+"Vatican City",0.07,
+"Russia",0.06,9.7
+"DR Congo",0.06,3.1
+"Vietnam",0.06,3.2
+"United Kingdom",0.06,5.2
+"Italy",0.06,5.1
+"Ukraine",0.06,2.9
+"Cameroon",0.06,6.1
+"Australia",0.06,6.6
+"Chad",0.06,3.9
+"Bolivia",0.06,6.6
+"Azerbaijan",0.06,2.8
+"Greece",0.06,5.1
+"Belarus",0.06,8
+"Laos",0.06,3.3
+"El Salvador",0.06,9.4
+"Republic of the Congo",0.06,5.5
+"Slovakia",0.06,5.7
+"Central African Republic",0.06,3.2
+"Finland",0.06,5.8
+"New Zealand",0.06,8.6
+"Georgia",0.06,2.8
+"Moldova",0.06,2.7
+"Armenia",0.06,8.5
+"Lithuania",0.06,7.8
+"Gabon",0.06,10.3
+"Slovenia",0.06,7.5
+"North Macedonia",0.06,7.7
+"Latvia",0.06,7.8
+"Equatorial Guinea",0.06,4.2
+"Luxembourg",0.06,4.5
+"Iceland",0.06,3.2
+"Sao Tome and Principe",0.06,5.5
+"Isle of Man",0.06,
+"Liechtenstein",0.06,4.7
+"Monaco",0.06,5.6
+"Ethiopia",0.05,3.4
+"France",0.05,5.4
+"Uganda",0.05,2.8
+"Argentina",0.05,5.5
+"Angola",0.05,2.9
+"Yemen",0.05,9.6
+"Peru",0.05,6
+"Madagascar",0.05,4.7
+"Niger",0.05,4.2
+"Netherlands",0.05,5.3
+"Sweden",0.05,4.2
+"Honduras",0.05,6.7
+"Austria",0.05,6.6
+"Switzerland",0.05,5.9
+"Denmark",0.05,5.6
+"Croatia",0.05,5.2
+"Botswana",0.05,10.8
+"Lesotho",0.05,3.4
+"Eswatini",0.05,3.1
+"Mayotte",0.05,
+"Nigeria",0.04,4.8
+"Kenya",0.04,5.1
+"Ecuador",0.04,6.6
+"Belgium",0.04,4.8
+"Norway",0.04,4.7
+"Aruba",0.04,12.4
+"Faroe Islands",0.04,
+"Ghana",0.03,5
+"Mozambique",0.03,3.1
+"Senegal",0.03,3.2
+"Ireland",0.03,5.2
+"Greenland",0.03,
+"Anguilla",0.03,
+"Ivory Coast",0.02,4.9
+"Mali",0.02,1.9
+"Burkina Faso",0.02,3
+"Zimbabwe",0.02,9.8
+"Guinea",0.02,4.4
+"Togo",0.02,3.3
+"Sierra Leone",0.02,3.2
+"Liberia",0.02,3.3
+"Mauritania",0.02,4.3
+"Gambia",0.02,2
+"Guinea-Bissau",0.02,3
+"Benin",0.01,2

@@ -1,0 +1,232 @@
+,#,Region,Country/Territory,2000,2011,2021,2030,2045,Type,Latitud,Longitud
+0,1,Africa,Africa,"2,532.9","14,700.0","23,633.9","33,446.0","55,254.4",Region,11.5024338,17.7578122
+1,2,Europe,Europe,"22,373.1","52,770.8","61,425.1","67,000.0","69,000.0",Region,51.0,10.0
+2,3,Middle East and North Africa,Middle East and North Africa,"17,007.6","32,600.0","72,671.9","95,000.0","135,700.0",Region,33.874664800000005,35.566736330340206
+3,4,North America and Caribbean,North America and Caribbean,"21,375.1","37,700.0","50,547.0","57,000.0","63,000.0",Region,43.70778905,-72.28883808717787
+4,5,South and Central America,South and Central America,"8,553.3","25,121.5","32,497.1","40,000.0","49,000.0",Region,33.2976546,-111.8199771
+5,6,South-East Asia,South-East Asia,"34,882.2","71,406.9","90,204.5","113,300.0","151,500.0",Region,-36.8624515,174.7207047
+6,7,Western Pacific,Western Pacific,"44,097.9","131,895.1","205,640.2","238,300.0","260,200.0",Region,-17.6602176,177.4049561
+7,8,Middle East and North Africa,Afghanistan,-,818.3,"1,606.7","2,172.8","3,530.7",Country,33.7680065,66.2385139
+8,9,Europe,Albania,94.3,64.1,241.1,261.4,258.2,Country,41.000028,19.9999619
+9,10,Middle East and North Africa,Algeria,-,"1,435.1","2,013.0","2,527.5","3,497.9",Country,28.0000272,2.9999825
+10,11,Western Pacific,American Samoa,-,-,7.8,8.4,8.9,Country,-14.297124,-170.7131481
+11,12,Europe,Andorra,-,4.8,8.0,8.7,8.9,Country,42.5407167,1.5732033
+12,13,Africa,Angola,-,185.3,584.5,830.4,"1,453.6",Country,-11.8775768,17.5691241
+13,14,North America and Caribbean,Anguilla,-,185.3,-,-,-,Country,18.1954947,-63.0750234
+14,15,North America and Caribbean,Antigua and Barbuda,-,7.3,8.5,10.2,11.7,Country,17.2234721,-61.9554608
+15,16,South and Central America,Argentina,760.9,"1,531.8","1,806.8","2,086.0","2,552.0",Country,-34.9964963,-64.9672817
+16,17,Europe,Armenia,-,191.7,133.6,153.6,155.4,Country,40.7696272,44.6736646
+17,18,North America and Caribbean,Aruba,5.0,11.7,4.1,3.9,3.7,Country,12.51756625,-69.98186415210564
+18,19,Western Pacific,Australia,781.3,"1,292.1","1,491.8","1,693.0","1,935.2",Country,-24.7761086,134.755
+19,20,Europe,Austria,232.3,571.0,447.1,477.6,497.3,Country,47.59397,14.12456
+20,21,Europe,Azerbaijan,-,167.1,397.1,499.3,573.6,Country,40.3936294,47.7872508
+21,22,North America and Caribbean,Bahamas,15.6,28.8,25.6,31.2,36.9,Country,24.7736546,-78.0000547
+22,23,Middle East and North Africa,Bahrain,56.3,150.8,119.8,156.8,210.2,Country,26.1551249,50.5344606
+23,24,South-East Asia,Bangladesh,"1,759.7","8,405.6","13,136.3","16,822.0","22,294.1",Country,24.4769288,90.2934413
+24,25,North America and Caribbean,Barbados,24.2,29.1,38.8,42.6,41.6,Country,13.1500331,-59.5250305
+25,26,Europe,Belarus,-,676.6,483.0,526.6,481.9,Country,53.4250605,27.6971358
+26,27,Europe,Belgium,307.4,514.9,404.9,437.9,442.6,Country,50.6402809,4.6667145
+27,28,North America and Caribbean,Belize,4.0,24.5,32.2,42.5,58.8,Country,16.8259793,-88.7600927
+28,29,Africa,Benin,-,70.6,50.4,71.5,123.7,Country,9.5293472,2.2584408
+29,30,North America and Caribbean,Bermuda,4.8,6.5,6.9,6.8,6.1,Country,32.30382,-64.7561647
+30,31,South-East Asia,Bhutan,-,21.5,44.8,59.5,84.2,Country,27.549511,90.5119273
+31,32,South and Central America,Bolivia (Plurinational State of),165.3,303.3,395.9,502.4,722.8,Country,-17.0568696,-64.9912286
+32,33,Europe,Bosnia and Herzegovina,-,264.9,305.9,322.3,295.8,Country,44.3053476,17.5961467
+33,34,Africa,Botswana,-,93.9,69.1,95.6,148.5,Country,-23.1681782,24.5928742
+34,35,South and Central America,Brazil,"3,310.4","12,440.0","15,733.6","19,224.1","23,223.6",Country,-10.3333333,-53.2
+35,36,North America and Caribbean,British Virgin Islands,1.4,1.3,1.9,3.1,3.4,Country,18.4024395,-64.5661642
+36,37,Western Pacific,Brunei Darussalam,-,19.3,35.0,42.0,47.3,Country,4.4137155,114.5653908
+37,38,Europe,Bulgaria,254.3,531.6,519.3,492.1,436.6,Country,42.6073975,25.4856617
+38,39,Africa,Burkina Faso,-,175.1,164.4,230.7,389.5,Country,12.0753083,-1.6880314
+39,40,Africa,Burundi,-,94.2,223.1,355.5,637.8,Country,-3.426449,29.9324519
+40,41,Africa,Cabo Verde,-,13.1,7.3,9.6,12.1,Country,16.0000552,-24.0083947
+41,42,Western Pacific,Cambodia,-,199.4,596.0,776.2,"1,094.6",Country,12.5433216,104.8144914
+42,43,Africa,Cameroon,61.1,501.4,620.8,877.2,"1,484.5",Country,4.6125522,13.1535811
+43,44,North America and Caribbean,Canada,"1,245.5","2,716.1","2,974.0","3,288.2","3,468.5",Country,61.0666922,-107.991707
+44,45,North America and Caribbean,Cayman Islands,2.9,4.4,6.1,7.2,8.8,Country,19.703182249999998,-79.9174627243246
+45,46,Africa,Central African Republic,-,58.2,96.9,130.3,223.9,Country,7.0323598,19.9981227
+46,47,Africa,Chad,-,197.1,268.3,382.6,700.1,Country,15.6134137,19.0156172
+47,48,Europe,Channel Islands,-,7.9,10.8,12.0,12.9,Country,49.21230655,-2.1255999596428845
+48,49,South and Central America,Chile,131.1,"1,190.1","1,747.1","1,965.2","2,215.7",Country,-31.7613365,-71.3187697
+49,50,Western Pacific,China,"22,564.8","90,045.1","140,869.6","164,069.5","174,433.5",Country,35.000074,104.999927
+50,51,Western Pacific,"China, Hong Kong SAR",614.4,525.4,686.0,837.0,831.1,Country,22.350627,114.1849161
+51,52,Western Pacific,"China, Macao SAR",34.5,32.7,50.9,69.5,81.3,Country,22.2862167,113.8904121
+52,53,South and Central America,Colombia,946.9,"2,609.3","3,443.6","4,060.3","5,014.2",Country,4.099917,-72.9088133
+53,54,Africa,Comoros,-,23.5,34.6,47.8,77.6,Country,-12.2045176,44.2832964
+54,55,Africa,Congo,8.6,94.6,151.6,206.4,327.8,Country,-2.9814344,23.8222636
+55,56,Western Pacific,Cook Islands,-,1.0,-,-,-,Country,-19.99697155,-157.78587140620786
+56,57,South and Central America,Costa Rica,77.3,271.2,361.5,443.1,531.1,Country,10.2735633,-84.0739102
+57,58,Europe,Croatia,174.1,218.8,212.7,213.2,193.9,Country,45.3658443,15.6575209
+58,59,South and Central America,Cuba,668.9,939.0,761.3,782.3,750.9,Country,23.0131338,-80.8328748
+59,60,North America and Caribbean,Curaçao,-,-,20.3,21.6,21.2,Country,12.21339425,-69.0408499890865
+60,61,Europe,Cyprus,25.3,81.8,87.5,99.6,115.8,Country,34.9823018,33.1451285
+61,62,Europe,Czechia,890.5,557.4,791.4,799.2,827.9,Country,49.7439047,15.3381061
+62,63,Africa,Côte d'Ivoire,42.7,406.5,231.2,309.1,497.0,Country,7.9897371,-5.5679458
+63,64,Western Pacific,Democratic People's Republic of Korea,-,"1,507.5","1,847.1","2,070.6","2,295.9",Country,40.3736611,127.0870417
+64,65,Africa,Democratic Republic of the Congo,252.6,730.7,"1,908.9","2,703.9","4,823.0",Country,-2.9814344,23.8222636
+65,66,Europe,Denmark,561.7,299.5,309.4,304.1,313.5,Country,55.670249,10.3333283
+66,67,Africa,Djibouti,-,26.1,53.7,73.4,96.7,Country,11.8145966,42.8453061
+67,68,North America and Caribbean,Dominica,5.8,3.9,6.3,7.1,7.7,Country,19.0974031,-70.3028026
+68,69,South and Central America,Dominican Republic,255.0,431.6,865.3,"1,152.9","1,466.6",Country,19.0974031,-70.3028026
+69,70,South and Central America,Ecuador,209.1,524.2,526.7,642.1,838.0,Country,-1.3397668,-79.3666965
+70,71,Middle East and North Africa,Egypt,"3,384.1","7,323.4","10,930.7","13,744.8","19,975.3",Country,26.2540493,29.2675469
+71,72,South and Central America,El Salvador,161.5,293.1,291.5,350.9,449.4,Country,13.8000382,-88.9140683
+72,73,Africa,Equatorial Guinea,-,14.0,39.4,54.0,94.4,Country,1.613172,10.5170357
+73,74,Africa,Eritrea,-,95.5,94.2,139.0,224.7,Country,15.9500319,37.9999668
+74,75,Europe,Estonia,45.6,90.7,83.9,87.5,83.1,Country,58.7523778,25.3319078
+75,76,Africa,Eswatini,-,13.9,21.8,27.8,42.2,Country,-26.5624806,31.3991317
+76,77,Africa,Ethiopia,268.1,"1,377.3","1,920.0","2,740.8","4,755.5",Country,10.2116702,38.6521203
+77,78,Europe,Faroe Islands,-,-,1.8,1.9,2.1,Country,62.0448724,-7.0322972
+78,79,Western Pacific,Fiji,42.3,55.4,99.2,116.0,139.7,Country,-18.1239696,179.0122737
+79,80,Europe,Finland,158.7,340.3,392.9,388.9,379.2,Country,63.2467777,25.9209164
+80,81,Europe,France,"1,656.8","3,237.6","3,942.9","4,184.9","4,225.7",Country,46.603354,1.8883335
+81,82,South and Central America,French Guiana,-,12.0,-,-,-,Country,3.94396215,-53.037301540206464
+82,83,Western Pacific,French Polynesia,-,14.9,52.1,60.0,68.1,Country,-17.0243749,-144.6434898
+83,84,Africa,Gabon,5.5,68.6,79.0,106.1,157.6,Country,-0.8999695,11.6899699
+84,85,Africa,Gambia,2.2,12.3,18.1,25.7,44.8,Country,13.470062,-15.4900464
+85,86,Europe,Georgia,247.3,104.6,190.6,192.1,179.1,Country,32.3293809,-83.1137366
+86,87,Europe,Germany,"2,600.0","5,022.2","6,199.9","6,519.7","6,094.4",Country,51.1638175,10.4478313
+87,88,Africa,Ghana,32.3,517.4,329.2,483.9,796.8,Country,8.0300284,-1.0800271
+88,89,Europe,Greece,468.2,603.4,736.1,780.8,783.2,Country,38.9953683,21.9877132
+89,90,Europe,Greenland,-,-,1.8,1.9,1.7,Country,77.6192349,-42.8125967
+90,91,North America and Caribbean,Grenada,7.0,4.8,10.1,11.4,12.9,Country,12.1360374,-61.6904045
+91,92,North America and Caribbean,Guadeloupe,-,23.9,-,-,-,Country,16.2528827,-61.5686855
+92,93,Western Pacific,Guam,-,10.3,23.3,26.6,29.6,Country,13.450125700000001,144.75755102972062
+93,94,South and Central America,Guatemala,148.9,533.3,"1,149.5","1,532.2","2,264.7",Country,15.5855545,-90.345759
+94,95,Africa,Guinea,-,181.8,103.7,144.9,251.4,Country,10.7226226,-10.7083587
+95,96,Africa,Guinea-Bissau,-,19.1,16.8,22.7,36.1,Country,11.815215,-15.2351044
+96,97,North America and Caribbean,Guyana,16.0,65.6,54.0,63.1,72.4,Country,4.8417097,-58.6416891
+97,98,North America and Caribbean,Haiti,183.7,295.5,548.7,692.4,918.7,Country,19.1399952,-72.3570972
+98,99,Europe,Holy See,-,-,0.1,0.1,0.1,Country,38.9247244,-77.06572732690151
+99,100,South and Central America,Honduras,125.1,216.9,268.2,376.5,586.8,Country,15.2572432,-86.0755145
+100,101,Europe,Hungary,491.5,568.4,661.4,660.4,626.3,Country,47.1817585,19.5060937
+101,102,Europe,Iceland,3.6,8.6,20.1,22.9,24.9,Country,64.9841821,-18.1059013
+102,103,South-East Asia,India,"32,674.4","61,258.4","74,194.7","92,973.7","124,874.7",Country,22.3511148,78.6677428
+103,104,Western Pacific,Indonesia,"5,654.3","7,291.9","19,465.1","23,328.0","28,569.9",Country,-2.4833826,117.8902853
+104,105,Middle East and North Africa,Iran (Islamic Republic of),"1,323.9","4,695.0","5,450.3","7,174.0","9,545.7",Country,32.6475314,54.5643516
+105,106,Middle East and North Africa,Iraq,449.9,"1,089.0","2,011.4","2,738.7","4,373.8",Country,33.0955793,44.1749775
+106,107,Europe,Ireland,80.2,191.4,139.1,160.8,193.0,Country,52.865196,-7.9794599
+107,108,Europe,Isle of Man,-,-,5.1,5.2,5.5,Country,54.1936805,-4.5591148
+108,109,Europe,Israel,273.7,400.3,536.5,617.5,781.3,Country,30.8124247,34.8594762
+109,110,Europe,Italy,"3,125.4","3,560.4","4,470.3","4,699.1","4,595.4",Country,42.6384261,12.674297
+110,111,North America and Caribbean,Jamaica,118.6,258.5,231.1,273.1,325.2,Country,18.1850507,-77.3947693
+111,112,Western Pacific,Japan,"7,113.2","10,674.3","11,005.0","10,542.7","10,117.9",Country,36.5748441,139.2394179
+112,113,Middle East and North Africa,Jordan,194.2,291.6,866.5,"1,099.5","1,629.1",Country,31.1667049,36.941628
+113,114,Europe,Kazakhstan,139.8,801.2,807.7,930.1,"1,051.0",Country,48.1012954,66.7780818
+114,115,Africa,Kenya,190.4,769.3,821.5,"1,239.9","1,964.9",Country,1.4419683,38.4313975
+115,116,Western Pacific,Kiribati,-,15.0,14.1,18.1,25.2,Country,0.3448612,173.6641773
+116,117,Middle East and North Africa,Kuwait,75.6,298.0,803.4,"1,051.4","1,267.4",Country,29.2733964,47.4979476
+117,118,Europe,Kyrgyzstan,93.0,154.2,256.4,311.7,395.4,Country,41.5089324,74.724091
+118,119,Western Pacific,Lao People's Democratic Republic,-,90.1,214.8,289.7,432.7,Country,20.0171109,103.378253
+119,120,Europe,Latvia,-,166.3,115.8,111.4,94.6,Country,56.8406494,24.7537645
+120,121,Middle East and North Africa,Lebanon,123.9,527.9,396.1,469.0,593.6,Country,33.8750629,35.843409
+121,122,Africa,Lesotho,-,29.1,48.4,57.8,74.8,Country,-29.6039267,28.3350193
+122,123,Africa,Liberia,-,51.0,47.1,63.2,98.5,Country,5.7499721,-9.3658524
+123,124,Middle East and North Africa,Libya,69.9,436.4,399.2,513.6,673.3,Country,26.8234472,18.1236723
+124,125,Europe,Liechtenstein,-,1.8,2.5,2.6,2.6,Country,47.1416307,9.5531527
+125,126,Europe,Lithuania,84.1,235.9,186.9,188.3,154.4,Country,55.3500003,23.7499997
+126,127,Europe,Luxembourg,12.1,21.1,34.6,39.8,48.1,Country,49.8158683,6.1296751
+127,128,Africa,Madagascar,75.0,428.0,535.8,742.1,"1,202.8",Country,-18.9249604,46.4416422
+128,129,Africa,Malawi,-,352.3,486.0,699.2,"1,184.5",Country,-13.2687204,33.9301963
+129,130,Western Pacific,Malaysia,596.7,"2,029.9","4,431.5","5,024.9","6,465.4",Country,4.5693754,102.2656823
+130,131,South-East Asia,Maldives,-,15.2,27.0,35.6,51.0,Country,3.7203503,73.2244152
+131,132,Africa,Mali,18.4,99.8,152.5,213.4,366.2,Country,16.3700359,-2.2900239
+132,133,Europe,Malta,20.8,30.1,37.8,36.3,36.2,Country,35.8885993,14.4476911
+133,134,Western Pacific,Marshall Islands,-,7.0,9.1,10.7,13.1,Country,8.9995549,168.0002575
+134,135,North America and Caribbean,Martinique,-,43.0,-,-,-,Country,14.6367927,-61.01582685063731
+135,136,Africa,Mauritania,-,60.6,45.0,62.0,96.5,Country,20.2540382,-9.2399263
+136,137,South-East Asia,Mauritius,112.6,138.2,250.4,275.3,278.2,Country,-20.2759451,57.5703566
+137,138,Africa,Mayotte,-,-,5.7,7.8,12.4,Country,-12.825543,45.148490830203045
+138,139,North America and Caribbean,Mexico,"4,387.3","10,293.7","14,123.2","17,062.7","21,181.9",Country,23.6585116,-102.0077097
+139,140,Western Pacific,Micronesia (Federated States of),-,7.7,8.7,10.3,13.2,Country,38.9073892,-77.0405464
+140,141,Europe,Monaco,-,2.1,2.7,3.0,3.1,Country,43.7323492,7.4276832
+141,142,Western Pacific,Mongolia,-,117.5,150.8,174.8,210.6,Country,46.8250388,103.8499736
+142,143,Europe,Montenegro,-,41.9,54.7,58.5,58.5,Country,42.9868853,19.5180992
+143,144,Middle East and North Africa,Morocco,384.9,"1,267.9","2,327.7","2,875.5","3,574.7",Country,31.1728205,-7.3362482
+144,145,Africa,Mozambique,117.3,294.7,349.3,512.4,956.7,Country,-19.302233,34.9144977
+145,146,Western Pacific,Myanmar,-,"2,103.7","2,346.6","2,791.4","3,437.9",Country,17.1750495,95.9999652
+146,147,Africa,Namibia,-,74.1,75.0,102.5,166.4,Country,-23.2335499,17.3231107
+147,148,Western Pacific,Nauru,-,1.2,1.5,1.7,1.8,Country,-0.5268357,166.9341755
+148,149,South-East Asia,Nepal,-,488.2,"1,133.5","1,553.4","2,180.1",Country,28.1083929,84.0917139
+149,150,Europe,Netherlands,415.9,881.6,857.0,910.4,894.7,Country,52.2434979,5.6343227
+150,151,North America and Caribbean,Netherlands Antilles,14.7,20.6,-,-,-,Country,12.1845,-68.6607922625
+151,152,Western Pacific,New Caledonia,-,14.6,49.8,57.2,67.7,Country,-21.3019905,165.4880773
+152,153,Western Pacific,New Zealand,104.3,312.1,268.7,296.8,319.6,Country,-41.5000831,172.8344077
+153,154,South and Central America,Nicaragua,-,282.8,365.8,485.0,690.6,Country,12.6090157,-85.2936911
+154,155,Africa,Niger,-,283.9,423.1,635.4,"1,232.2",Country,17.7356214,9.3238432
+155,156,Africa,Nigeria,209.4,"3,054.5","3,623.5","4,941.6","7,988.3",Country,9.6000359,7.9999721
+156,157,Western Pacific,Niue,-,0.1,-,-,-,Country,-19.0536414,-169.861341
+157,158,Western Pacific,Northern Mariana Islands,-,-,8.3,9.2,10.1,Country,15.1753648,145.7379338
+158,159,Europe,North Macedonia,75.6,134.9,116.1,124.5,122.3,Country,41.6171214,21.7168387
+159,160,Europe,Norway,118.9,202.1,190.7,205.2,232.0,Country,61.1529386,8.7876653
+160,161,Middle East and North Africa,Oman,-,138.4,445.6,639.9,897.0,Country,21.0000287,57.0036901
+161,162,Middle East and North Africa,Pakistan,"8,789.5","6,349.2","32,964.5","42,850.7","62,018.5",Country,30.3308401,71.247499
+162,163,Western Pacific,Palau,-,1.4,1.9,2.0,2.1,Country,5.3783537,132.9102573
+163,164,South and Central America,Panama,48.2,196.2,236.0,290.9,369.6,Country,8.559559,-81.1308434
+164,165,Western Pacific,Papua New Guinea,378.3,216.8,724.0,901.4,"1,229.7",Country,-5.6816069,144.2489081
+165,166,South and Central America,Paraguay,120.8,205.0,274.6,333.4,447.1,Country,-23.3165935,-58.1693445
+166,167,South and Central America,Peru,528.4,942.2,"1,300.7","1,587.9","1,970.6",Country,-6.8699697,-75.0458515
+167,168,Western Pacific,Philippines,"1,242.2","4,219.7","4,303.9","5,456.3","7,503.9",Country,12.7503486,122.7312101
+168,169,Europe,Poland,"1,557.1","3,057.5","2,677.0","2,810.9","2,751.6",Country,52.215933,19.134422
+169,170,Europe,Portugal,397.0,"1,021.4",994.1,"1,012.8",970.7,Country,39.6621648,-8.1353519
+170,171,South and Central America,Puerto Rico,223.6,388.5,413.4,429.7,392.1,Country,18.2247706,-66.4858295
+171,172,Middle East and North Africa,Qatar,30.1,216.9,394.9,556.1,795.5,Country,25.3336984,51.2295295
+172,173,Africa,Réunion,-,92.6,-,-,-,Country,-21.130737949999997,55.536480112992315
+173,174,Western Pacific,Republic of Korea,"1,986.0","3,186.4","3,511.8","3,934.2","3,860.9",Country,36.638392,127.6961188
+174,175,Europe,Republic of Moldova,-,80.0,207.3,227.5,223.5,Country,47.2879608,28.5670941
+175,176,Europe,Romania,42.5,"1,506.3","1,199.0","1,203.3","1,128.5",Country,45.9852129,24.6859225
+176,177,Europe,Russian Federation,-,"12,593.2","7,392.1","7,899.5","7,332.2",Country,64.6863136,97.7453061
+177,178,Africa,Rwanda,-,126.2,297.0,444.7,720.2,Country,-1.9646631,30.0644358
+178,179,North America and Caribbean,Saint Kitts and Nevis,3.1,2.9,6.4,7.3,8.2,Country,17.250512,-62.6725973
+179,180,North America and Caribbean,Saint Lucia,-,8.6,15.9,18.9,22.1,Country,13.8250489,-60.975036
+180,181,North America and Caribbean,Saint Vincent and the Grenadines,-,5.8,6.5,7.3,7.9,Country,12.90447,-61.2765569
+181,182,Western Pacific,Samoa,-,6.6,7.7,9.3,11.7,Country,-13.7693895,-172.12005
+182,183,Europe,San Marino,-,1.8,2.7,2.9,3.0,Country,43.9458623,12.458306
+183,184,Africa,Sao Tome and Principe,-,3.6,6.1,8.2,12.9,Country,0.9713095,7.02255
+184,185,Middle East and North Africa,Saudi Arabia,996.7,"2,759.6","4,274.1","5,631.0","7,537.3",Country,25.6242618,42.3528328
+185,186,Africa,Senegal,33.5,146.5,189.4,276.4,494.0,Country,14.4750607,-14.4529612
+186,187,Europe,Serbia,-,671.0,796.8,801.1,773.2,Country,44.1534121,20.55144
+187,188,Africa,Seychelles,-,3.5,6.6,7.5,7.6,Country,-4.6574977,55.4540146
+188,189,Africa,Sierra Leone,-,72.1,70.6,93.7,144.5,Country,8.6400349,-11.8400269
+189,190,Western Pacific,Singapore,282.1,426.7,711.8,872.3,898.9,Country,1.357107,103.8194992
+190,191,Europe,Slovakia,324.7,275.5,349.7,382.2,395.8,Country,48.7411522,19.4528646
+191,192,Europe,Slovenia,119.5,160.4,137.8,146.3,138.1,Country,46.1199444,14.8153333
+192,193,Western Pacific,Solomon Islands,-,34.5,53.3,71.0,110.4,Country,-8.7053941,159.1070693851845
+193,194,Africa,Somalia,-,185.1,376.0,576.3,"1,018.1",Country,8.3676771,49.083416
+194,195,Africa,South Africa,886.4,"1,946.6","4,234.0","5,445.2","7,464.0",Country,-28.8166236,24.991639
+195,196,Africa,South Sudan,-,-,246.2,361.8,590.6,Country,7.8699431,29.6667897
+196,197,Europe,Spain,"2,018.3","2,840.1","5,141.3","5,576.0","5,647.6",Country,39.3260685,-4.8379791
+197,198,South-East Asia,Sri Lanka,335.4,"1,079.8","1,417.6","1,559.5","1,749.1",Country,7.877395849999999,80.66247852355892
+198,199,Middle East and North Africa,State of Palestine,-,124.5,183.0,262.2,445.3,Country,31.462420950000002,34.262716572130714
+199,200,Middle East and North Africa,Sudan,414.3,"1,666.6","3,526.6","4,734.1","7,424.7",Country,14.5844444,29.4917691
+200,201,North America and Caribbean,Suriname,9.9,28.5,49.7,58.4,68.6,Country,4.1413025,-56.0771187
+201,202,Europe,Sweden,570.3,386.4,496.2,498.9,541.1,Country,59.6749712,14.5208584
+202,203,Europe,Switzerland,199.6,423.8,389.0,419.1,445.4,Country,46.7985624,8.2319736
+203,204,Middle East and North Africa,Syrian Arab Republic,538.1,889.5,"1,484.2","2,596.0","3,760.1",Country,34.6401861,39.0494106
+204,205,Western Pacific,Taiwan,"1,206.9","1,664.5","2,457.2","2,979.4","3,030.7",Country,23.9739374,120.9820179
+205,206,Europe,Tajikistan,-,155.5,327.6,423.8,600.7,Country,38.6281733,70.8156541
+206,207,Western Pacific,Thailand,"1,489.1","4,014.3","6,066.6","6,735.5","6,783.7",Country,14.8971921,100.83273
+207,208,Western Pacific,Timor-Leste,-,30.0,46.3,59.1,89.8,Country,-8.7443169,126.063482
+208,209,Africa,Togo,9.6,81.2,75.4,102.2,158.7,Country,8.7800265,1.0199765
+209,210,Western Pacific,Tokelau,-,0.1,-,-,-,Country,-9.1676396,-171.819687
+210,211,Western Pacific,Tonga,7.5,6.1,7.4,8.5,10.7,Country,-19.9160819,-175.202642
+211,212,North America and Caribbean,Trinidad and Tobago,70.3,117.5,148.9,166.8,177.6,Country,10.7466905,-61.0840075
+212,213,Middle East and North Africa,Tunisia,176.3,629.6,869.4,"1,016.0","1,163.5",Country,33.8439408,9.400138
+213,214,Europe,Turkey,"1,834.6","3,502.3","9,020.9","10,817.8","13,386.3",Country,38.9597594,34.9249653
+214,215,Europe,Turkmenistan,-,69.8,223.7,268.9,346.3,Country,39.3763807,59.3924609
+215,216,Western Pacific,Tuvalu,-,1.1,1.6,1.9,2.4,Country,-8.6405212,179.1582918181797
+216,217,Africa,Uganda,88.7,307.9,716.0,"1,059.8","1,902.8",Country,1.5333554,32.2166578
+217,218,Europe,Ukraine,"1,286.3","1,196.0","2,325.0","2,396.4","2,215.9",Country,49.4871968,31.2718321
+218,219,Middle East and North Africa,United Arab Emirates,-,768.0,990.9,"1,177.5","1,325.8",Country,24.0002488,53.9994829
+219,220,Europe,United Kingdom,"1,466.8","3,063.9","3,996.3","4,140.6","4,408.1",Country,54.7023545,-3.2765753
+220,221,Africa,United Republic of Tanzania,134.8,472.9,"2,884.0","4,209.4","7,363.1",Country,-6.5247123,35.7878438
+221,222,North America and Caribbean,United States of America,"15,280.0","23,721.8","32,215.3","34,755.3","36,289.9",Country,39.7837304,-100.445882
+222,223,South and Central America,Uruguay,98.5,148.6,275.6,290.9,325.2,Country,-32.8755548,-56.0201525
+223,224,North America and Caribbean,US Virgin Islands,-,11.8,12.4,11.8,10.0,Country,17.789187,-64.7080574
+224,225,Europe,Uzbekistan,-,812.9,"1,351.8","1,704.2","2,190.9",Country,41.32373,63.9528098
+225,226,Western Pacific,Vanuatu,-,17.3,19.9,26.7,41.3,Country,-16.5255069,168.1069154
+226,227,South and Central America,Venezuela (Bolivarian Republic of),548.7,"1,674.6","2,280.0","3,238.0","4,079.3",Country,8.0018709,-66.1109318
+227,228,Western Pacific,Viet Nam,-,"1,702.7","3,994.1","4,961.6","6,015.3",Country,15.9266657,107.9650855
+228,229,Middle East and North Africa,Yemen,-,727.1,613.9,897.8,"1,507.1",Country,16.3471243,47.8915271
+229,230,Africa,Zambia,40.8,243.8,726.3,"1,098.2","2,045.3",Country,-14.5189121,27.5589884
+230,231,Africa,Zimbabwe,55.4,550.9,106.4,142.7,231.5,Country,-18.4554963,29.7468414
